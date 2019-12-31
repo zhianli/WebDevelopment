@@ -31,8 +31,8 @@ p {
 hr {
     border: dotted #EAF6F6;
     border-bottom: none;
-    border-top-width: 6px;
-    width: 5%;
+    border-top-width: 8px;
+    width: 4%;
     margin: 100px auto;
 }   
 
@@ -71,23 +71,19 @@ a:hover {
 .teamwork-image {
     float: left;
     margin-right: 30px;
-    width: 25%;
+    width: 20%;
 }
 
 .achievement-image {
     float: right;
     margin-left: 30px;
-    width: 25%;
+    width: 20%;
 }
 
 .skill-row{
     width: 50%;
-    margin: 50px auto 100px auto;
+    margin: 50px auto 130px auto;
     text-align: left;
-}
-
-.net {
-    text-decoration: underline;
 }
 
 .intro {
